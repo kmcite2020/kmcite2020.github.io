@@ -1,6 +1,6 @@
 {
-    "name": "dashboard",
-    "short_name": "dashboard",
+    "name": "opthalmology_mcqs",
+    "short_name": "opthalmology_mcqs",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
